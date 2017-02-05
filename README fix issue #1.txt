@@ -2,4 +2,4 @@
 SoftUni-QA- Course-Playground
 
 
-fix for issue 1
+fix were for issue 1
